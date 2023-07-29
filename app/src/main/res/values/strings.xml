@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Room Confirm</string>
+    <!-- Network Errors-->
+    <string name="networkError">You are not connected to a wifi or cellular data network. Please connect and try again</string>
+    <string name="unknownError">Something went wrong!</string>
+    <string name="requestTimeOutError">We could not capture your request in time. Please try again.</string>
+    <string name="responseMalformedJson">Oops! We hit an error. Try again later.</string>
+
+    <string name="alert_confirm_title">Do you confirm meeting?</string>
+    <string name="alert_confirm_text">Location: %s\nMembers: %s</string>
+    <string name="back" translatable="false">Back</string>
+    <string name="toast_meeting_already_confirmed">The meeting is confirmed!</string>
+    <string name="toast_rooms_no_selected">Please, select at least one room!</string>
+    <string name="text_no_meetings">Room is available!\nYou can schedule meeting.</string>
+    <string name="title_meetings">Meeting Schedule</string>
+    <string name="next">Next</string>
+    <string name="confirm">Confirm meeting</string>
+    <string name="delimiter">-</string>
+    <string name="msg_no_meetings">No more meetings today</string>
+    <string name="msg_please_confirm">%sPlease confirm in %d min!</string>
+    <string name="free_room">This room is free at the moment</string>
+    <string name="delete_meeting">Meeting is deleted</string>
+    <string name="canceled">The meeting was canceled</string>
+    <string name="ok">OK</string>
+</resources>
